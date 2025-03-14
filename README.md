@@ -44,8 +44,9 @@ Este é um projeto simples de um blog sobre o Santos FC, criado para praticar co
  ├── app
  │   ├── components
  │   │   ├── menu-title
+ │   │   ├── menu-bar
  │   │   ├── big-card
- │   │   ├── small-card
+ |   |   ├── small-card
  │   ├── pages
  │   │   ├── home
  │   │   ├── content
