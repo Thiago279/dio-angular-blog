@@ -56,6 +56,15 @@ Este é um projeto simples de um blog sobre o Santos FC, criado para praticar co
 
 ## 📸 Prévia do Projeto
 
-🖼 Em construção...
+### Home Page
+![Home Page](https://github.com/Thiago279/dio-angular-blog/blob/main/assets/images/Screenshot%202025-03-14%20at%2013.37.51.png?raw=true)
+
+
+### Páginas de notícia
+![página1](https://github.com/Thiago279/dio-angular-blog/blob/main/assets/images/Screenshot%202025-03-14%20at%2013.34.17.png?raw=true)
+
+
+
+![página2](https://github.com/Thiago279/dio-angular-blog/blob/main/assets/images/Screenshot%202025-03-14%20at%2013.34.29.png?raw=true)
 
 ---
